@@ -1,0 +1,126 @@
+.centered{
+    width: 420px;
+    height: 217px;
+    border: 1px solid #ff0000;
+    border-radius: 15px;
+  
+ 
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 560px;
+    
+}
+h1{
+    font-size: 20px;
+    margin: 0px;
+    width: 250px;
+    
+
+}
+.annonce{
+    background-color: #ff0000;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 50px;
+    gap: 150px;
+
+    
+}
+.close{
+    background-color: #ffffff;
+    border-radius: 50%;
+    border-color: #ff0000;
+    width: 20px;
+    height: 20px;
+    
+}
+.button1{
+    border-radius: 100%;
+    border: none;
+    width: 20px;
+    height: 20px;
+    padding: 0px;
+    margin: 10px;
+
+}
+.discount{
+    color: #ffffff;
+    margin: 15px;
+    font-size: 15px;
+    padding-left: 0px;
+}
+.last{
+    padding-top: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    gap: 20px;
+    border-top: #ff0000 solid 1px;
+    width: 399,5px;
+    margin-bottom: 10px;
+    height: 10px;
+}
+.button2{
+    background-color: #ff0000;
+    color: #ffffff;
+    height: 30px;
+    width: 90px;
+    border: #ff0000 solid;
+    border-radius: 10%;
+    margin-left: 123px;
+    margin-bottom: 10px;
+  
+}
+.button3{
+    background-color: #ff0000;
+    color: #ffffff;
+    border-radius: 5px;
+    border: #ff0000;
+    height: 30px;
+    width: 90px;
+   
+   
+}
+.button4{
+    background-color: #ffffff;
+    color: red;
+    border-radius: 5px; 
+    border: rgb(255, 0, 0) solid 1px;
+    height: 30px;
+    width: 90px;
+    margin-top: 1px;
+}
+.send{
+    height: 10px;
+    background-color:  #ff0000;;
+    border: none;
+}
+
+.idcard{
+padding-left: 15px;
+
+    
+}
+.middle{
+    display: flex;
+    flex-wrap: wrap;
+    
+
+}
+.middle1{
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+}
+middle2{
+    display: flex;
+    flex-direction: column;
+}
+
+
